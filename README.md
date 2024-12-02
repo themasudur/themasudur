@@ -37,5 +37,6 @@ My Work Focuses On
 
 Feel free to explore my projects and reach out for collaborations!
 
-🌐 [https://sites.google.com/view/themasudur]
-📧 [masudurism@gmail.com]
+🌐 (On web) https://sites.google.com/view/themasudur
+
+📧 (Email)[masudurism@gmail.com]
