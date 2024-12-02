@@ -1,6 +1,6 @@
 ## Hi 👋 this is Masud
 
-[![Gmail](https://img.shields.io/badge/%20-Email%20Me-blue?color=blue&labelColor=ef5350&logo=gmail&&logoColor=white)](mailto:harunurrashid47@hotmail.com)
+[![Gmail](https://img.shields.io/badge/%20-Email%20Me?color=blue&labelColor=ef5350&logo=gmail&&logoColor=white)](mailto:harunurrashid47@hotmail.com)
 
 
 
