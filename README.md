@@ -29,7 +29,7 @@ My Work Focuses On
 
 📚 Publications: 
 
-[![Google Scholar](https://img.shields.io/badge/%20-Google%20Scholar-4285F4?labelColor=0d47a1&logo=google-scholar&logoColor
+[![Google Scholar](https://img.shields.io/badge/%20-Google%20Scholar-4285F4?labelColor=0d47a1&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XdwImFcAAAAJ&hl=en)
 
 📫 How to reach me: Email or social media
 
