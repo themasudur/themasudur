@@ -1,8 +1,8 @@
 ## Hi 👋 this is Masud
 
-[![Send Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:masudurism@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:masudurism@gmail.com)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-blue?logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-blue?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:masudurism@hotmail.com?)
 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=twitter&logoColor=#00acee)](https://twitter.com/harunurrashid97)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
