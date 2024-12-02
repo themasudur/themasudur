@@ -4,7 +4,7 @@
 [![Send Email](https://img.shields.io/badge/Email%20Me-Click%20Here-FF5733?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-blue?logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-blue?color=14171A&labelColor=ef5350&logo=gmail)](mailto:masudurism@hotmail.com?)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-blue?color=14171A&labelColor=ef5350&logo=gmail&&logoColor=white)](mailto:masudurism@hotmail.com?)
 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=twitter&logoColor=#00acee)](https://twitter.com/harunurrashid97)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
