@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋 this is Masud
+
+[![Send Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:masudurism@gmail.com)
+[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=twitter&logoColor=#00acee)](https://twitter.com/harunurrashid97)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
+
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@harunurrashid97)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/harunshimanto)
+[![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
