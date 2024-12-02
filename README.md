@@ -1,9 +1,11 @@
 ## Hi 👋 this is Masud
 
+[![Gmail](https://img.shields.io/badge/%20-Email%20Me-blue?color=14171A&labelColor=ef5350&logo=gmail&&logoColor=white)](mailto:harunurrashid47@hotmail.com)
+
+
+
 [![Gmail](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:masudurism@gmail.com)
 [![Send Email](https://img.shields.io/badge/Email%20Me-Click%20Here-FF5733?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-blue?logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-blue?color=14171A&labelColor=ef5350&logo=gmail&&logoColor=white)](mailto:masudurism@hotmail.com?)
 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=twitter&logoColor=#00acee)](https://twitter.com/harunurrashid97)
