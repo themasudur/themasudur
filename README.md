@@ -27,7 +27,9 @@ My Work Focuses On
 
 👯 I’m looking to collaborate on ...
 
-📚 Publications: [![Google Scholar](https://img.shields.io/badge/%20-Google%20Scholar-4285F4?labelColor=0d47a1&logo=google-scholar&logoColor
+📚 Publications: 
+
+[![Google Scholar](https://img.shields.io/badge/%20-Google%20Scholar-4285F4?labelColor=0d47a1&logo=google-scholar&logoColor
 
 📫 How to reach me: Email or social media
 
