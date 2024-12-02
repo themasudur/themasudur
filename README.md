@@ -11,10 +11,15 @@ I'm a PhD student at UL Lafayette. I'm passionate about research, problem-solvin
 My Work Focuses On
 
 🌐 Natural Language Processing (NLP)
+
 🤖 Machine Learning (ML)
+
 🧠 Deep Learning (DL)
+
 👁️ Computer Vision (CV)
+
 🖥️ Human-Computer Interaction (HCI)
+
 🔬 Interdisciplinary Research
 
 
