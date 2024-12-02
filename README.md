@@ -1,13 +1,17 @@
 ## Hi 👋 this is Masud
 
 
-![UL Lafayette Logo](https://upload.wikimedia.org/wikipedia/en/f/f7/University_of_Louisiana_at_Lafayette_seal.svg)  
-**I'm a PhD student at UL Lafayette. I'm passionate about research, problem-solving, and application.**
-
-
 I'm a PhD student at UL Lafayette. I'm passionate about research, problem-solving, and application. 
 
-My work focuses on [insert specific research area or field], where I explore [brief description of your research interest].
+💻 **Research Interest**:
+My Work Focuses On
+- 🌐 **Natural Language Processing (NLP)** 
+- 🤖 **Machine Learning (ML)** 
+- 🧠 **Deep Learning (DL)**
+- 👁️ **Computer Vision (CV)**
+- 🖥️ **Human-Computer Interaction (HCI)**
+- 📊 **Data Analysis**
+- 🔬 **Interdisciplinary Research**
 
 
 [![Gmail](https://img.shields.io/badge/%20-Email%20Me-blue?labelColor=ef5350&logo=gmail&&logoColor=white)](mailto:masudurism@hotmail.com)
