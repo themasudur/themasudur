@@ -1,7 +1,7 @@
 # 👋 Hi there!  
 
 [![Gmail](https://img.shields.io/badge/%20-Email%20Me-blue?labelColor=ef5350&logo=gmail&&logoColor=white)](mailto:masudurism@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/%20-Connect%20on%20LinkedIn-blue?labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themasudur/)  
+[![LinkedIn](https://img.shields.io/badge/%20-Connect%20on%20LinkedIn-blue?labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themasudur/followMember=themasudur)  
 [![Google Scholar](https://img.shields.io/badge/%20-Google%20Scholar-4285F4?labelColor=0d47a1&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XdwImFcAAAAJ&hl=en)
 [![Website](https://img.shields.io/badge/%20-Visit%20Website-4285F4?logo=google-chrome&logoColor=white)](https://sites.google.com/view/themasudur)
 
